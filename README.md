@@ -8,6 +8,7 @@
 4. [Schema](#Schema)
 5. [Sprint 1](#Sprint-1)
 6. [Sprint 2](#Sprint-2)
+7. [Sprint 3](#Sprint-3)
 
 ## Overview
 Any user that installed Egg-cellent Cook will be an excellent chef after trying out many recipes available on this app!
@@ -55,7 +56,7 @@ This app allows users to view a list of food recipes extracted from a public API
 - [ ] Favorites Screen
 * Users can view a list of recipes they have favorited
 - [ ] Completed Screen
-* Users can mark recipes as completed
+* Users can view a list of recipes they have completed
 
 ### 3. Navigation
 
@@ -126,7 +127,7 @@ NA
 - [ ] Favorites Screen
 * Users can view a list of recipes they have favorited
 - [ ] Completed Screen
-* Users can mark recipes as completed
+* Users can view a list of recipes they have completed
 
 https://github.com/wytan01/meals-app/assets/66911094/f287d535-4050-4d13-a540-fb6408d6eee5
 
@@ -158,9 +159,41 @@ https://github.com/wytan01/meals-app/assets/66911094/f287d535-4050-4d13-a540-fb6
 - [x] Favorites Screen
 * Users can view a list of recipes they have favorited
 - [ ] Completed Screen
-* Users can mark recipes as completed
-
+* Users can view a list of recipes they have completed
 
 
 https://github.com/wytan01/meals-app/assets/66911094/b2688807-31c9-4cef-8c09-3afc66e95c89
+
+## Sprint 3
+### 1. User Stories (Required and Optional)
+**Required Must-have Stories**
+
+- [x]  Users can view a list of recipes
+- [x]  Users can tap on a recipe for more details
+- [x]  Users can favorite recipes
+- [x]  Users can view a list of recipes they have favorited
+- [x]  Users can mark recipes as completed
+- [x]  Users can view a list of recipes they have completed
+
+**Optional Nice-to-have Stories**
+- [ ]  Users can add notes to recipes they have completed
+- [ ]  Users can choose recipes based on what ingredients they have
+- [ ]  Users can have 10 recipes suggested to them randomly in a separate tab
+- [ ]  Users can plan recipes for certain days
+
+### 2. Screen Archetypes
+
+- [x] Recipes Screen
+* Users can view a list of recipes
+* Users can tap on a recipe for more details
+- [x] Recipe Detail Screen
+* Users can favorite recipes
+* Users can mark recipes as completed
+- [x] Favorites Screen
+* Users can view a list of recipes they have favorited
+- [x] Completed Screen
+* Users can view a list of recipes they have completed
+
+
+https://github.com/wytan01/meals-app/assets/66911094/9e24a994-4faa-4fd1-ba14-794b4946bea1
 
